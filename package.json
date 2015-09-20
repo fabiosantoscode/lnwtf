@@ -1,6 +1,6 @@
 {
   "name": "lnwtf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "For those who can never remember the argument order of ln!",
   "main": "index.js",
   "bin": {
