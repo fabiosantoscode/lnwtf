@@ -1,0 +1,30 @@
+{
+  "name": "lnwtf",
+  "version": "1.0.0",
+  "description": "For those who can never remember the argument order of ln!",
+  "main": "index.js",
+  "bin": {
+    "lnwtf": "lnwtf.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiosantoscode/lnwtf.git"
+  },
+  "keywords": [
+    "ln",
+    "cli"
+  ],
+  "author": "Fábio Santos <fabiosantosart@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fabiosantoscode/lnwtf/issues"
+  },
+  "homepage": "https://github.com/fabiosantoscode/lnwtf#readme",
+  "dependencies": {
+    "bossy": "^2.0.0",
+    "prompt": "^0.2.14"
+  }
+}
