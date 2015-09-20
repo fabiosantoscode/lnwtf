@@ -4,7 +4,7 @@
   "description": "For those who can never remember the argument order of ln!",
   "main": "index.js",
   "bin": {
-    "lnwtf": "lnwtf.js"
+    "lnwtf": "bin/lnwtf.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
