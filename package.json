@@ -25,6 +25,6 @@
   "homepage": "https://github.com/fabiosantoscode/lnwtf#readme",
   "dependencies": {
     "bossy": "^2.0.0",
-    "prompt": "^0.2.14"
+    "prompt-sync": "^3.0.0"
   }
 }
