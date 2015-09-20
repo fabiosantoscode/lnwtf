@@ -9,4 +9,12 @@ Here's how to create a symlink from `/foo/bar` to a directory called `here`, abo
 
 Easy right?
 
+# Options
+
+```
+-f, --from                   The start of the link (required)
+-t, --to                     The destination of the link (required)
+-s, --symbolic, --symlink    Create a symbolic link
+-h, --help                   Display this message
+```
 
